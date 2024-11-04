@@ -1,5 +1,5 @@
 # md
-Projekte und Unterrichtsmaterial für Madame Digital
+Projekte und Unterrichtsmaterial
 
 In diesem Repository befindet sich Material zu den IT-Modulen
 
